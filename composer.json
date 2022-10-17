@@ -1,0 +1,11 @@
+{
+    "name": "faeldon/philippines-json-maps",
+    "description": "Philippine administrative boundaries in geojson and topojson format at various resolution.",
+    "authors": [
+        {
+            "name": "James Faeldon",
+            "email": "james@faeldon.com"
+        }
+    ],
+    "require": {}
+}
